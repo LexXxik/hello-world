@@ -1,2 +1,2 @@
 # hello-world
-Just hello-world nothing else
+Hi, I am from Slovakia. Me and few my friends try to develop game using unity...
